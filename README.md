@@ -34,7 +34,7 @@ I'm a Customer Experience Specialist with 3+ years in BPO operations, currently 
 
 | Project | Description | Tools |
 |---|---|---|
-| 📁 data-analytics-portfolio | Personal analytics projects from Cisco course | Excel, CSV |
+| 📁 [data-analytics-portfolio](https://github.com/Inzshagi/data-analytics-portfolio) | Personal data analytics projects | Excel, SQL, Power BI |
 | 🎮 Trivia Game | C# Windows Forms app | C#, Visual Studio |
 | 📋 RTracker | Record tracking system | C#, Windows Forms |
 
