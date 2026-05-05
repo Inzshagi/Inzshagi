@@ -1,35 +1,55 @@
+
 # Hi, I'm Zyron 👋
 
-I'm a Customer Experience Specialist with 4 years of experience, currently transitioning into tech as a C# Developer and aspiring QA Tester.
+I'm a Customer Experience Specialist with 3+ years in BPO operations, currently transitioning into **Data Analytics**. I'm completing a BS in Computer Science and the Cisco Data Analytics Essentials certification — building real projects along the way.
 
-## 🚀 What I'm Doing
+---
 
-* Building real projects using C#
-* Learning software development fundamentals
-* Exploring Quality Assurance and testing
+## 🎯 What I'm Working Toward
 
-## 💼 Experience
+- Breaking into an entry-level **Data Analyst** role
+- Combining my operations background with data skills
+- Building a portfolio of real-world data projects
 
-* Customer Support (voice, escalations, problem-solving)
-* Quality Assurance (monitoring, evaluation, feedback)
-* Strong communication and critical thinking skills
+---
 
-## 🛠️ Tech Stack
+## 📊 Skills I'm Building
 
-* C#
-* Windows Forms
-* Git & GitHub (basic)
-* Troubleshooting & debugging
+- **Tools:** Excel, Google Sheets, Power BI (learning)
+- **Languages:** SQL (learning), Python/pandas (learning)
+- **Concepts:** Data cleaning, descriptive analysis, visualization
+- **Soft skills:** Communication, process thinking, client operations
 
-## 📌 Projects
+---
 
-* 🎮 Trivia Game (C# Windows Forms)
-* 📊 RTracker (record tracking system)
+## 💼 Background
 
-## 📈 Goal
+- 3+ years in BPO — customer support, escalations, KPI tracking
+- Familiar with metrics like AHT, CSAT, and call volume trends
+- Working student — self-driven and used to learning under pressure
 
-To land a tech role (C#, QA, or entry-level developer) while continuously improving my skills.
+---
 
-## 📫 Connect with me
+## 🗂️ Projects (In Progress)
 
-* Open to freelance and job opportunities
+| Project | Description | Tools |
+|---|---|---|
+| 📁 data-analytics-portfolio | Personal analytics projects from Cisco course | Excel, CSV |
+| 🎮 Trivia Game | C# Windows Forms app | C#, Visual Studio |
+| 📋 RTracker | Record tracking system | C#, Windows Forms |
+
+---
+
+## 📚 Currently Learning
+
+- Cisco Data Analytics Essentials
+- SQL basics (SQLZoo)
+- Excel for Data Analysis
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 Upwork: [Zyron A.](https://www.upwork.com/freelancers/~016710ace1965588d2)
+- 📍 Philippines | Open to remote opportunities
+  
